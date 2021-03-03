@@ -32,7 +32,7 @@
     "moment": "^2.24.0",
     "mongodb": "^3.1.13",
     "mongoose": "^5.7.14",
-    "pug": "^2.0.0-rc.1",
+    "pug": "^3.0.1",
     "request": "^2.88.0"
   },
   "devDependencies": {
